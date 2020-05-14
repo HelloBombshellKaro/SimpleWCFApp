@@ -1,0 +1,13 @@
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\DBHost.exe.config
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\DBHost.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\DBHost.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\DBService.dll
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\EntityFramework.dll
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\DBService.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\DBService.dll.config
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\obj\Debug\DBHost.csprojAssemblyReference.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\obj\Debug\DBHost.csproj.CoreCompileInputs.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\obj\Debug\DBHost.csproj.CopyComplete
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\obj\Debug\DBHost.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\obj\Debug\DBHost.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBHost\bin\Debug\EntityFramework.SqlServer.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXAIR+JlEk1KXxe9bDQSwe0moMXf3/4lOFw1+yk4al4KNH+ICXrNIv60f9Bm6EDH1iLgUmBQrOYE0VDFZwHsXA==",
+  "success": true,
+  "projectFilePath": "E:\\OneDrive\\WWSI\\Programowanie komponentowe i rozproszone\\D601\\Rok 2020\\DBConnectorProject\\DBHost\\DBHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waldek\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\DBService.dll.config
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\DBService.dll
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\DBService.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\obj\Debug\DBService.csprojAssemblyReference.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\obj\Debug\DBService.csproj.CoreCompileInputs.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\obj\Debug\DBService.dll
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\obj\Debug\DBService.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\EntityFramework.dll
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\EntityFramework.SqlServer.dll
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\EntityFramework.xml
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\bin\Debug\EntityFramework.SqlServer.xml
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBService\obj\Debug\DBService.csproj.CopyComplete
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\DBService.dll.config
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\DBService.dll
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\DBService.pdb
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\EntityFramework.dll
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\EntityFramework.xml
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\obj\Debug\DBService.csprojAssemblyReference.cache
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\obj\Debug\DBService.csproj.CopyComplete
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\obj\Debug\DBService.dll
+C:\Users\Karolina\Desktop\DBConnectorProject\DBService\obj\Debug\DBService.pdb

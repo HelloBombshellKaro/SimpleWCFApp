@@ -1,0 +1,11 @@
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\bin\Debug\DBClientProject.exe.config
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\bin\Debug\DBClientProject.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\bin\Debug\DBClientProject.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.csprojAssemblyReference.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.Form1.resources
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.Properties.Resources.resources
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.csproj.GenerateResource.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.csproj.CoreCompileInputs.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\D601\Rok 2020\DBConnectorProject\DBClientProject\obj\Debug\DBClientProject.EdycjaRadaru.resources
